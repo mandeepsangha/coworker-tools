@@ -1,6 +1,0 @@
-{
-  "name": "coworkers",
-  "scripts": {
-    "start": "node cli"
-  }
-}
