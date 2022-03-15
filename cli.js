@@ -23,6 +23,6 @@ if (command === "list") {
 function runListCommand(arr) {
   // Replace this with your implementation
   console.log("Called the list command");
-  arr.forEach( item =>  console.log(`${item.firstName} ${item.lastName}`)
-  
-)};
+  arr.forEach((item) => console.log(`${item.firstName} ${item.lastName}`));
+}
+
